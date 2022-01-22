@@ -1,0 +1,2 @@
+H:\2020semester2\DataStructureSENG1120\Assignmet2\Blackjack\x64\Debug\Blackjack.exe
+H:\2020semester2\DataStructureSENG1120\Assignmet2\Blackjack\x64\Debug\Blackjack.pdb

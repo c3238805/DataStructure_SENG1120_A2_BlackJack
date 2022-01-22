@@ -1,0 +1,9 @@
+﻿  DeckOfCards.cpp
+H:\2020semester2\DataStructureSENG1120\Assignmet2\Blackjack\DeckOfCards.cpp(162,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+H:\2020semester2\DataStructureSENG1120\Assignmet2\Blackjack\DeckOfCards.cpp(185,1): error C2601: 'DeckOfCards::draw': local function definitions are illegal
+H:\2020semester2\DataStructureSENG1120\Assignmet2\Blackjack\DeckOfCards.cpp(54): message : this line contains a '{' which has not yet been matched
+H:\2020semester2\DataStructureSENG1120\Assignmet2\Blackjack\DeckOfCards.cpp(192,1): error C2601: 'operator <<': local function definitions are illegal
+H:\2020semester2\DataStructureSENG1120\Assignmet2\Blackjack\DeckOfCards.cpp(54): message : this line contains a '{' which has not yet been matched
+H:\2020semester2\DataStructureSENG1120\Assignmet2\Blackjack\DeckOfCards.cpp(199,1): error C2601: 'DeckOfCards::print': local function definitions are illegal
+H:\2020semester2\DataStructureSENG1120\Assignmet2\Blackjack\DeckOfCards.cpp(54): message : this line contains a '{' which has not yet been matched
+H:\2020semester2\DataStructureSENG1120\Assignmet2\Blackjack\DeckOfCards.cpp(54): fatal error C1075: '{': no matching token found
